@@ -15,8 +15,10 @@ Create a draw_box_plot function that uses Searborn to draw two adjacent box plot
 For each chart, make sure to use a copy of the data frame. Unit tests are written for you under test_module.py.
 
 Development
+
 For development, you can use main.py to test your functions. Click the "run" button and main.py will run.
 
 Testing
+
 We imported the tests from test_module.py to main.py for your convenience. The tests will run automatically whenever you hit the "run" button.
 
